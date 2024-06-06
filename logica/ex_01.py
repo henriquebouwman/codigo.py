@@ -1,0 +1,2 @@
+empresa = "PETROBRAS"
+print(empresa)

@@ -1,0 +1,7 @@
+numero = int(input("Digite um número: "))
+print(f"\nO dobro de {numero} é {numero * 2}\n")
+print(f"A raiz quadrada de {numero} é {numero ** (0.5)}\n")
+print(f"A elevação ao quadrado de {numero} é {numero ** 2}\n")
+print(f"A metade de {numero} é {numero / 2}\n")
+print(f"O antecessor de {numero} é {numero - 1}\n")
+print(f"O sucessor de {numero} é {numero + 1}\n")
